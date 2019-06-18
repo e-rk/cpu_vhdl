@@ -203,7 +203,6 @@ constant LDS_R5 : opcode := "0100010100000011";
 constant LDS_R6 : opcode := "0100011000000100";
 
 constant NOP : opcode := "0000000000000000";
-constant HLT : opcode := "0000000000000001";
 
 begin
 
